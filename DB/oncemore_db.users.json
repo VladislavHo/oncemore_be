@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "66c5ec1695893c962883c974"
+  },
+  "name": "Администратор",
+  "email": "info@oncemorecosmetics.ru",
+  "phone": "+77777777777",
+  "password": "$2b$05$xiakYijITWf9VX8gjAEnfu7Muuq3aSx8huvR/AkM.aWjN7SARvUmG",
+  "handle": "@admin",
+  "avatar": "",
+  "privilege": 2,
+  "points": 100,
+  "__v": 0
+}]

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "66b0a6e7a933a13a6e238630"
+  },
+  "name": "Новинки",
+  "link": "/items?filter=Новинки",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b0a702a933a13a6e23863c"
+  },
+  "name": "Глаза",
+  "link": "/items?filter=Глаза",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b0a70aa933a13a6e23863f"
+  },
+  "name": "Губы",
+  "link": "/items?filter=Губы",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b368f82f9bbc4bef545a73"
+  },
+  "name": "Брови",
+  "link": "/items?filter=Брови",
+  "__v": 0
+}]

@@ -1,0 +1,5 @@
+node_modules/*
+uploads/*
+*.log
+request.log
+error.log

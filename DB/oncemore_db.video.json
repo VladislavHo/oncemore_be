@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "675ec0085af5f44aa3cebf65",
+    "author": "66c5ec1695893c962883c974",
+    "product": "675ebf7a5af5f44aa3cebf57",
+    "video": {
+      "src": "https://vk.com/clip-227359578_456239019",
+      "oid": 227359578,
+      "id": 456239019
+    },
+    "text": "блеск ",
+    "views": 3,
+    "__v": 0
+  },
+  {
+    "_id": "675ec2ac5af5f44aa3cebfbb",
+    "author": "66c5ec1695893c962883c974",
+    "product": "675ebf7a5af5f44aa3cebf57",
+    "video": {
+      "src": "https://vk.com/clip-227359578_456239019",
+      "oid": 37378489,
+      "id": 456239272
+    },
+    "text": "карандаш видео отчет",
+    "views": 4,
+    "__v": 0
+  },
+  {
+    "_id": "675fdc485af5f44aa3cec0e7",
+    "author": "66c5ec1695893c962883c974",
+    "product": "675d721d5af5f44aa3cebf2a",
+    "video": {
+      "src": "https://vk.com/clip-227359578_456239019",
+      "oid": 214275385,
+      "id": 456241952
+    },
+    "text": "123456",
+    "views": 0,
+    "__v": 0
+  },
+  {
+    "_id": "676270695af5f44aa3cec2c3",
+    "author": "66c5ec1695893c962883c974",
+    "product": "675d721d5af5f44aa3cebf2a",
+    "video": {
+      "src": "https://vk.com/clip-227359578_456239019",
+      "oid": 195190641,
+      "id": 456244482
+    },
+    "text": "Отличный продукт!",
+    "views": 1,
+    "__v": 0
+  },
+  {
+    "_id": "676270695af5f44aa3cec2c3",
+    "author": "66c5ec1695893c962883c974",
+    "product": "675d721d5af5f44aa3cebf2a",
+    "video": {
+      "src": "https://vk.com/clip-227359578_456239019",
+      "oid": 195190641,
+      "id": 456244482
+    },
+    "text": "Отличный продукт!",
+    "views": 1,
+    "__v": 0
+  },
+  {
+    "_id": "676270695af5f44aa3cec2c3",
+    "author": "66c5ec1695893c962883c974",
+    "product": "675d721d5af5f44aa3cebf2a",
+    "video": {
+      "src": "https://vk.com/clip-227359578_456239019",
+      "oid": 195190641,
+      "id": 456244482
+    },
+    "text": "Отличный продукт!",
+    "views": 1,
+    "__v": 0
+  }
+]
