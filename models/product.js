@@ -31,6 +31,10 @@ const productSchema = new Schema({
     minlength: 2,
     maxlength: 64,
   },
+  reviews: {
+    required: false,
+    type: Array
+  },
   brand: {
     type: String,
     required: true,

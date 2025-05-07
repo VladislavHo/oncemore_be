@@ -13,7 +13,7 @@ const reviewSchema = new Schema({
   author: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'User', 
-    required: true,
+    required: false,
   },
   product: {
     type: mongoose.Schema.Types.ObjectId,

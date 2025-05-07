@@ -53,7 +53,7 @@ module.exports.createProduct = (req, res, next) => {
     )
     .catch((err) => {
       if (err.name === 'ValidationError') {
-          console.log(err);
+
           next(new BadRequestError(err.message));
       } else {
           next(err);

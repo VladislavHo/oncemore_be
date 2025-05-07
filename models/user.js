@@ -23,11 +23,12 @@ const userSchema = new Schema({
     phone: {
       type: String,
       required: true,
-      validate: {
-        validator(value) {
-          return validator.isMobilePhone(value);
-        }
-      },
+      // validate: {
+      //   validator(value) {
+      //     return validator.isMobilePhone(value);
+      //   },
+      //   message: 'Некорректный номер телефона', 
+      // },
       unique: true,
     },
     password: {

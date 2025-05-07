@@ -17,6 +17,6 @@ router.patch('/:id', addViewToVideo);
 router.delete('/:id', auth, adminPrivilege, deleteReview);
 router.get('/product/:id', getProductReviews);
 router.get('/user/:id', getUserReviews);
-router.post('/', auth, createReview);
+router.post('/', createReview);
 
 module.exports = router;

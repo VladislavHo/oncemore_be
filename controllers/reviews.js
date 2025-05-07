@@ -66,9 +66,9 @@ module.exports.getReview = (req, res, next) => {
 module.exports.createReview = (req, res, next) => {
   const { author, product, video, text } = req.body;
 
-  console.log(author, product, video)
 
-  if (!author || !product || !video || !text || !video.src || !video.oid || !video.id) {
+
+  if (!product || !video || !text || !video.src || !video.oid || !video.id) {
     return next(new BadRequestError('Все обязательные поля должны быть заполнены.'));
   }
 

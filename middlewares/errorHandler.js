@@ -2,7 +2,7 @@ const { BAD_REQUEST_CODE, NOT_FOUND_CODE, UNAUTHORIZED_CODE, FORBIDDEN_CODE, SER
 
 module.exports = (err, req, res, next) => {
     const code = err.statusCode;
-    console.log(err);
+
     if (code === BAD_REQUEST_CODE || code === UNAUTHORIZED_CODE ||
             code === NOT_FOUND_CODE || code === FORBIDDEN_CODE ||
             code === CONFLICT_CODE) {
